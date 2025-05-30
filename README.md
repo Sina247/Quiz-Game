@@ -16,5 +16,5 @@ A Vanilla JavaScript multiple-choice quiz demo with start, question, and result 
 
 ## 🔨 Tech Stack  
 - 📄 **HTML5** semantic structure
-- - 🎨 **CSS3** with Flexbox & Media Queries  
+- 🎨 **CSS3** with Flexbox & Media Queries  
 - 🔧 **JavaScript** (ES6 modules)  
