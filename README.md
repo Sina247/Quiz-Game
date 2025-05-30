@@ -1,4 +1,4 @@
-# 🎯 Quiz Game
+# 🎮 Quiz Game
 
 A Vanilla JavaScript multiple-choice quiz demo with start, question, and result screens. Players test their knowledge through timed questions, dynamic scoring, a live progress bar, and responsive design for both mobile and desktop.
 
